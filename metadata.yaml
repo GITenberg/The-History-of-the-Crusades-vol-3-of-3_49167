@@ -1,15 +1,21 @@
 _repo: The-History-of-the-Crusades-vol-3-of-3_49167
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Robson, William
     gutenberg_agent_id: '45144'
     url: http://www.gutenberg.org/2009/agents/45144
+covers:
+- cover_type: archival
+  image_path: 49167-h/images/cover.jpg
 creator:
   author:
     agent_name: Michaud, Joseph Francois
     gutenberg_agent_id: '45143'
     url: http://www.gutenberg.org/2009/agents/45143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49167#The-History-of-the-Crusades-vol-3-of-3
 gutenberg_issued: '2015-06-08'
 gutenberg_type: Text
 identifiers:
